@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software na **PicPay**, com
 - 🔭 Atualmente estou trabalhando na **PicPay** focando em melhorar a experiência do usuário com tecnologias modernas.
 - 🌱 Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades, com foco especial em **arquitetura de software** e **boas práticas de desenvolvimento**.
 - 💬 Pergunte-me sobre **React.js**, **TypeScript**, **Node.js**, e **Java**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [E-mail](mailto:seuemail@exemplo.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/alef-aguiar/) | [E-mail](mailto:alefsa_daniel@hotmail.com)
 - ⚡ Fato curioso: Adoro resolver quebra-cabeças e desafios lógicos!
 
 ## 🛠️ Habilidades
