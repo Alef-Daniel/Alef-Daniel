@@ -27,9 +27,9 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software, com foco em **Rea
   
  ![WebCarros](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=WebCarros&theme=radical)
 
-- **Cantinho do Doce**: Landing page de uma doceria, com design moderno e responsivo, que destaca os produtos deliciosos da loja.
-  
-  ![Cantinho do Doce](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=cantinho-do-doce-rs&theme=radical)
+- [**Cantinho do Doce RS**](https://github.com/Alef-Daniel/cantinho-do-doce-rs): Landing page de uma doceria, com design moderno e responsivo, destacando os produtos deliciosos da loja.
+
+  ![Cantinho do Doce RS](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=cantinho-do-doce-rs&theme=radical)
 
 ## 📈 Minhas Estatísticas
 
