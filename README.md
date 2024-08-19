@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software, com foco em **Rea
 
 - **WebMotors**: Página de cadastro de carros à venda, onde os usuários podem facilmente anunciar seus veículos, com uma interface amigável e responsiva.
   
-  ![WebMotors](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=WebMotors&theme=radical)
+  ![WebMotors](https://web-carros-5m34-2ugijeh4v-alef-daniels-projects.vercel.app/)
 
 - **Cantinho do Doce**: Landing page de uma doceria, com design moderno e responsivo, que destaca os produtos deliciosos da loja.
   
