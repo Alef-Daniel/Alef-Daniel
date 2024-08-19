@@ -22,8 +22,6 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software, com foco em **Rea
 ## 🌟 Projetos Destacados
 
 - [**AppFinance**](https://github.com/Alef-Daniel/AppFinance): Um aplicativo de finanças que ajuda os usuários a gerenciar suas finanças pessoais de forma eficiente e intuitiva.
-  
-  ![AppFinance](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=AppFinance&theme=radical)
 
 - **WebMotors**: Página de cadastro de carros à venda, onde os usuários podem facilmente anunciar seus veículos, com uma interface amigável e responsiva.
   
