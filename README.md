@@ -1,6 +1,6 @@
 # Olá, eu sou Alef Daniel! 👋
 
-Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software na **PicPay**, com foco em **React.js** e **TypeScript** no front-end, e **Node.js** e **Java** no back-end. Tenho paixão por criar soluções eficientes e inovadoras, e aqui você encontrará uma seleção dos meus projetos mais importantes.
+Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software, com foco em **React.js** e **TypeScript** no front-end, e **Node.js** e **Java** no back-end. Tenho paixão por criar soluções eficientes e inovadoras, e aqui você encontrará uma seleção dos meus projetos mais importantes.
 
 ## 🚀 Sobre Mim
 
