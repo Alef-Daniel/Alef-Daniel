@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software, com foco em **Rea
 
 - **Cantinho do Doce**: Landing page de uma doceria, com design moderno e responsivo, que destaca os produtos deliciosos da loja.
   
-  ![Cantinho do Doce](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=CantinhoDoDoce&theme=radical)
+  ![Cantinho do Doce](https://github-readme-stats.vercel.app/api/pin/?username=Alef-Daniel&repo=cantinho-do-doce-rs&theme=radical)
 
 ## 📈 Minhas Estatísticas
 
