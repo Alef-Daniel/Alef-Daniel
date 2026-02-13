@@ -27,6 +27,8 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor de software, com foco em **Rea
 
 - [**Cantinho do Doce RS**](https://github.com/Alef-Daniel/cantinho-do-doce-rs): Landing page de uma doceria, com design moderno e responsivo, destacando os produtos deliciosos da loja.
 
+- [**API BLOG GO**](https://github.com/Alef-Daniel/BlogGO-API): API RESTful blog pessoal. 
+
 ### Vamos Conectar!
 
 Se você está interessado em tecnologia ou quer conversar sobre desenvolvimento de software, sinta-se à vontade para me contatar. Adoro colaborar em projetos open-source e compartilhar conhecimentos com a comunidade.
